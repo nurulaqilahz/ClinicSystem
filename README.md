@@ -1,15 +1,13 @@
 # PROPOSAL FOR PROJECT DEVELOPMENT
 
-Title: Clinic Management System
-Name: Nurul Aqilah binti Zakaria | 1719406
-    : Nur Hanani binti Ab Hannan | 1710992
-    : Syazwana Izzati binti Azaddin | 1713650
-    : Nurul Zafirah binti Shaharuddin | 1719004
+# Title: Clinic Management System
 
-First Header  | Second Header
+Name  | Matric No
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Nurul Aqilah binti Zakaria  | 1719406
+Nur Hanani binti Ab Hannan  | 1710992
+Syazwana Izzati binti Azaddin  | 1713650
+Nurul Zafirah binti Shaharuddin  | 1719004
 
 ## 1.1 INTRODUCTION
 
