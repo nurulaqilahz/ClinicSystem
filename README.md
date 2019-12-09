@@ -59,7 +59,7 @@ In any project development, limitations and constraints need to be taken into ac
 
 ## 1.6 PROJECT STAGES (GANTT CHART)
 
-![Gantt Chart](CLINIC.png)
+![Gantt Chart](ClinicProject.png)
 
 
 ## 1.7 SIGNIFICANCE OF THE PROJECT
