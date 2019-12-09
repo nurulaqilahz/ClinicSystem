@@ -1,8 +1,4 @@
-# PROPOSAL FOR PROJECT DEVELOPMENT
-
-
-# CLINIC MANAGEMENT SYSTEM
-
+# PROPOSAL CLINIC MANAGEMENT SYSTEM
 
 Members Name  | Matric No
 ------------- | -------------
