@@ -1,6 +1,10 @@
 # PROPOSAL FOR PROJECT DEVELOPMENT
 
-Title:
+Title: Clinic Management System
+
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
 
 ## 1.1 INTRODUCTION
 
