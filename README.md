@@ -1,13 +1,16 @@
 # PROPOSAL FOR PROJECT DEVELOPMENT
 
+
 # CLINIC MANAGEMENT SYSTEM
 
-Name  | Matric No
+
+Members Name  | Matric No
 ------------- | -------------
 Nurul Aqilah binti Zakaria  | 1719406
 Nur Hanani binti Ab Hannan  | 1710992
 Syazwana Izzati binti Azaddin  | 1713650
 Nurul Zafirah binti Shaharuddin  | 1719004
+
 
 ## 1.1 INTRODUCTION
 
