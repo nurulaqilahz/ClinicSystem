@@ -1,6 +1,6 @@
 # PROPOSAL FOR PROJECT DEVELOPMENT
 
-CLINIC MANAGEMENT SYSTEM
+# CLINIC MANAGEMENT SYSTEM
 
 Name  | Matric No
 ------------- | -------------
@@ -45,7 +45,7 @@ Our main objective for this project is to ease the receptionists, doctors and nu
 ## 1.4 PROJECT SCOPE
 ### 1.4.1 Scope
 
-Our scope for this project is about the clinic management system. This system will help the management of the hospital with the data store and data retrieval as some of the clinics are having problems with keeping the database in the traditional way. This web application are making it easier for the receptionist and the doctors to view the data of the patients 
+Our scope for this project is strictly for the  clinic management system. This system will help the management of the hospital with the data store and data retrieval as some of the clinics are having problems with keeping the database in the traditional way. This web application are making it easier for the receptionist and the doctors as they can view the date and time of the patients if there are making any appointments, the disease or problem that the patients have or the type of medicine they take. 
 
 
 ### 1.4.2 Targeted User
@@ -78,4 +78,7 @@ As it has been mentioned, our target users are receptionists, doctors and nurses
 We will develop and provide an application that eases the clinic management. A typical issues with the current procedures that some clinics still use a traditional database which is they keep all the patients’ records in a log book. By using a traditional way will make the receptionist takes a long time to search and trace the patient’s record and the probability to lose the patients’ information is also high when using this traditional method. Doctors and nurses also can easily check the patient's record by using this web application. Therefore, we develop this web application to help them to store the data and information of patients safely. Additionally, we also develop this web application also because to secure the system so that the data that already stored in the system did not lose.
 
 ## 1.9 REFERENCES
+
+* Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives
+
 
