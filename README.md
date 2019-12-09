@@ -2,9 +2,9 @@
 
 Title: Clinic Management System
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| Attempt | #1 |
+| :---: | :---: | 
+| Seconds | 301 | 283 | 291 | 281 | 281 |
 
 ## 1.1 INTRODUCTION
 
