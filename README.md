@@ -30,12 +30,12 @@ Thus, below are the processes that we are considering to automate or enhance thr
 -Store data and information safely
 -Secured system
 
-### 1.3 PROJECT OBJECTIVE
+## 1.3 PROJECT OBJECTIVE
 
 Our main objective for this project is to ease the receptionists, doctors and nurses to do their work. So we provide this website and try to make it useful and friendly to our users. On our website, we will reduce the number of clicks it takes a client to reach the most elevated traffic page that most of our website clients consistently visit from any point on the site to 2 clicks or less than that. Then, we will also assemble the website to fulfill a standards, that will be completely tried against the criteria.
 
 
-### 1.4 PROJECT SCOPE
+## 1.4 PROJECT SCOPE
 ### 1.4.1 Scope
 
 Our scope for this project is about the clinic management system. This system will help the management of the hospital with the data store and data retrieval as some of the clinics are having problems with keeping the database in the traditional way. This web application are making it easier for the receptionist and the doctors to view the data of the patients 
@@ -49,7 +49,7 @@ Firstly, our targeted users are receptionists that coordinate day-to-day activit
 
 The infrastructure that we need for our project is MySQL and Eclipse. For Eclipse, we need to build for the model, view and controller which consist of JSP pages, Servlet and Javabean. After all the development of the pages is done, the connection of the database which involves MySQL is established so that the database of the patients and doctors are included in the system. This will help the hospital management with the data storing and retrieval of the data so that it will be easier in handling the huge amount of data.
 
-### 1.5 CONSTRAINTS
+## 1.5 CONSTRAINTS
 
 In any project development, limitations and constraints need to be taken into account to ensure the project’s success at the end. For our project, there are a few limitations that will be faced: 
 
@@ -57,16 +57,16 @@ In any project development, limitations and constraints need to be taken into ac
 -Lack of skill and knowledge in coding to develop an application.
 -Limited resources because there are many elements that need to be included for a complete clinic management application.
 
-### 1.6 PROJECT STAGES (GANTT CHART)
+## 1.6 PROJECT STAGES (GANTT CHART)
 
 
-### 1.7 SIGNIFICANCE OF THE PROJECT
+## 1.7 SIGNIFICANCE OF THE PROJECT
 
 As it has been mentioned, our target users are receptionists, doctors and nurses. We will provide a platform for them to scheduling, registering new patients and updating records. Nurses and receptions will be the one who does the data storing that involved in the clinic. After that, nurses and doctors can easily collect patient information and records for medical use.
 
-### 1.8 SUMMARY
+## 1.8 SUMMARY
 
 We will develop and provide an application that eases the clinic management. A typical issues with the current procedures that some clinics still use a traditional database which is they keep all the patients’ records in a log book. By using a traditional way will make the receptionist takes a long time to search and trace the patient’s record and the probability to lose the patients’ information is also high when using this traditional method. Doctors and nurses also can easily check the patient's record by using this web application. Therefore, we develop this web application to help them to store the data and information of patients safely. Additionally, we also develop this web application also because to secure the system so that the data that already stored in the system did not lose.
 
-### 1.9 REFERENCES
+## 1.9 REFERENCES
 
