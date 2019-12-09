@@ -1,4 +1,4 @@
-# PROPOSAL CLINIC MANAGEMENT SYSTEM
+# GROUP PROJECT PROPOSAL - CLINIC MANAGEMENT SYSTEM
 
 Members Name  | Matric No
 ------------- | -------------
