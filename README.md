@@ -6,10 +6,10 @@
 
 Members Name  | Matric No
 ------------- | -------------
-1. Nurul Aqilah binti Zakaria  | 1719406
-2. Nur Hanani binti Ab Hannan  | 1710992
-3. Syazwana Izzati binti Azaddin  | 1713650
-4. Nurul Zafirah binti Shaharuddin  | 1719004
+Nurul Aqilah binti Zakaria  | 1719406
+Nur Hanani binti Ab Hannan  | 1710992
+Syazwana Izzati binti Azaddin  | 1713650
+Nurul Zafirah binti Shaharuddin  | 1719004
 
 
 ## 1.1 INTRODUCTION
