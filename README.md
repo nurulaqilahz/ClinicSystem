@@ -30,10 +30,10 @@ The deficiencies of handling the medical data had bring serious implications tow
 
 Thus, below are the processes that we are considering to automate or enhance through our proposed application:
 
--Set a usable system for the users to access it quick
--Simple and interactive interface
--No paper and ink required
--Store data and information safely
+-Set a usable system for the users to access it quick <br />
+-Simple and interactive interface <br />
+-No paper and ink required <br />
+-Store data and information safely <br />
 -Secured system
 
 ## 1.3 PROJECT OBJECTIVE
@@ -78,8 +78,8 @@ We will develop and provide an application that eases the clinic management. A t
 
 ## 1.9 REFERENCES
 
-*Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives <br />
-*Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples <br />
-*Muholland, B. (2017, July 31) 6 types of project proposals that get approved (and how to write them). Retrieved from https://www.process.st/project-proposal/ <br />
-*3 Problems You Can Solve with Clinic Management Software. (2018, October 31). Retrieved from https://thejournalofmhealth.com/3-problems-you-can-solve-with-clinic-management-software/ <br />
+-Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives <br />
+-Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples <br />
+-Muholland, B. (2017, July 31) 6 types of project proposals that get approved (and how to write them). Retrieved from https://www.process.st/project-proposal/ <br />
+-3 Problems You Can Solve with Clinic Management Software. (2018, October 31). Retrieved from https://thejournalofmhealth.com/3-problems-you-can-solve-with-clinic-management-software/ <br />
 
