@@ -60,8 +60,8 @@ The infrastructure that we need for our project is MySQL and Eclipse. For Eclips
 
 In any project development, limitations and constraints need to be taken into account to ensure the project’s success at the end. For our project, there are a few limitations that will be faced: 
 
--Not enough time to develop this application.
--Lack of skill and knowledge in coding to develop an application.
+-Not enough time to develop this application. </br>
+-Lack of skill and knowledge in coding to develop an application.  </br>
 -Limited resources because there are many elements that need to be included for a complete clinic management application.
 
 ## 1.6 PROJECT STAGES (GANTT CHART)
