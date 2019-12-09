@@ -21,10 +21,10 @@ The environment in which we are planning to develop the application is using web
 
 The deficiencies of handling the medical data had bring serious implications towards the user in current practices of medical record audit. The specific problems with the existing system are:
 
--Longer time taken to search for patients’ records
--Lots of paper usage 
--Inks on the papers turn out fade
--Papers can be misplaced without having other alternative
+-Longer time taken to search for patients’ records <br />
+-Lots of paper usage <br />
+-Inks on the papers turn out fade <br />
+-Papers can be misplaced without having other alternative <br />
 -No backup to restore data and information
 -No security system
 
@@ -78,8 +78,8 @@ We will develop and provide an application that eases the clinic management. A t
 
 ## 1.9 REFERENCES
 
-*Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives
-*Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples
-*Muholland, B. (2017, July 31) 6 types of project proposals that get approved (and how to write them). Retrieved from https://www.process.st/project-proposal/
-*3 Problems You Can Solve with Clinic Management Software. (2018, October 31). Retrieved from https://thejournalofmhealth.com/3-problems-you-can-solve-with-clinic-management-software/ 
+*Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives <br />
+*Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples <br />
+*Muholland, B. (2017, July 31) 6 types of project proposals that get approved (and how to write them). Retrieved from https://www.process.st/project-proposal/ <br />
+*3 Problems You Can Solve with Clinic Management Software. (2018, October 31). Retrieved from https://thejournalofmhealth.com/3-problems-you-can-solve-with-clinic-management-software/ <br />
 
