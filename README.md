@@ -78,7 +78,8 @@ We will develop and provide an application that eases the clinic management. A t
 
 ## 1.9 REFERENCES
 
-* Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives
-* Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples
-
+*Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives
+*Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples
+*Muholland, B. (2017, July 31) 6 types of project proposals that get approved (and how to write them). Retrieved from https://www.process.st/project-proposal/
+*3 Problems You Can Solve with Clinic Management Software. (2018, October 31). Retrieved from https://thejournalofmhealth.com/3-problems-you-can-solve-with-clinic-management-software/ 
 
