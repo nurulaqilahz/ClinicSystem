@@ -6,10 +6,10 @@
 
 Members Name  | Matric No
 ------------- | -------------
-Nurul Aqilah binti Zakaria  | 1719406
-Nur Hanani binti Ab Hannan  | 1710992
-Syazwana Izzati binti Azaddin  | 1713650
-Nurul Zafirah binti Shaharuddin  | 1719004
+1. Nurul Aqilah binti Zakaria  | 1719406
+2. Nur Hanani binti Ab Hannan  | 1710992
+3. Syazwana Izzati binti Azaddin  | 1713650
+4. Nurul Zafirah binti Shaharuddin  | 1719004
 
 
 ## 1.1 INTRODUCTION
@@ -83,5 +83,6 @@ We will develop and provide an application that eases the clinic management. A t
 ## 1.9 REFERENCES
 
 * Spacey, J. (2018, Jan 04). 21 examples of project objectives. Retrieved from https://simplicable.com/new/project-objectives
+* Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples
 
 
