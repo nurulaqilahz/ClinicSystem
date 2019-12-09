@@ -1,6 +1,6 @@
 # PROPOSAL FOR PROJECT DEVELOPMENT
 
-# Title: Clinic Management System
+CLINIC MANAGEMENT SYSTEM
 
 Name  | Matric No
 ------------- | -------------
