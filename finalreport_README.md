@@ -103,19 +103,13 @@ our project, there are a few limitations that will be faced:
 
 ## 1.8 SIGNIFICANCE OF THE PROJECT
 
-As it has been mentioned, our target users are receptionists and doctors. We will provide a platform for them to registering new 
-patients and updating records. Receptionists will be the one who does the data storing that involved in the clinic. After that, doctors 
-can easily collect patient information and records for medical use.
+As it has been mentioned, our target users are receptionists and doctors. We have provided a platform for them to register new 
+patients and update new records. Receptionists will be the one who does the data storing that involved in the clinic. After that, doctors can easily collect patients' informations and records for medical use.
 
 
 ## 1.9 SUMMARY
 
-We will develop and provide an application that eases the clinic management. A typical issues with the current procedures that some 
-clinics still use a traditional database which is they keep all the patients’ records in a log book. By using a traditional way will 
-make the receptionist takes a long time to search and trace the patient’s record and the probability to lose the patients’ information 
-is also high when using this traditional method. Doctors also can easily check the patient's record by using this web application. 
-Therefore, we develop this web application to help them to store the data and information of patients safely. Additionally, we also 
-develop this web application because to secure the system so that the data that already stored in the system did not lose.
+We has developed an application that we believe it will ease the clinic management. A typical issue with the current procedures that some clinics still use is a traditional database which is they keep all the patients’ records in a log book. By using a traditional way, it will make the receptionist takes a longer time to search and trace the patient’s record and the probability to lose the patients’ information is also high when using this traditional method. Doctors also can easily check the patient's record by using this web application. Therefore, we develop this web application to help them to store the data and information of patients safely. Additionally, we also develop this web application to secure the system so that the data that already stored in the system will not lose.
 
 
 ## 2.0 REFERENCES
