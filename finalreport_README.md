@@ -11,8 +11,8 @@ Nurul Zafirah binti Shaharuddin  | 1719004
 
 ## 1.1 INTRODUCTION
 
-We would like to develop an application regarding clinic management system. This application would make data storing and data retrieval
-easier for the receptionists and doctors. Other than that, we would include processes such as registration of new patients. In addition,
+We had developed an application regarding clinic management system. This application made data storing and data retrieval
+easier for the receptionists and doctors. Other than that, we had included processes such as registration of new patients. In addition,
 this web application will records all of existing patients' data and it would also be stored in the database to provide them a smooth 
 visit to the clinic in the future.
 
@@ -20,7 +20,7 @@ visit to the clinic in the future.
 ## 1.2 PROBLEM DESCRIPTION
 ### 1.2.1 Background of the problem
 
-The environment in which we are planning to develop the application is using web application. The target users that will use the system 
+The environment in which we planned is to develop the application is using web application. The target users that will use the system 
 are the receptionists and doctors. Generally, a common problem with the current processes that some clinics are facing is that they use 
 traditional database whereby they keep all the patients’ records in a log book. Whenever the patients visit the clinic to meet the 
 doctor, the clients will wait for a long time for the receptionist to search for their names in order to track the record. This 
@@ -40,7 +40,7 @@ audit. The specific problems with the existing system are:
 -No backup to restore data and information </br>
 -No security system </br>
 
-Thus, below are the processes that we are considering to automate or enhance through our proposed application:
+Thus, below are the processes that we has considered to enhance through our proposed application:
 
 -Set a usable system for the users to access it quick </br>
 -Simple and interactive interface </br>
@@ -96,9 +96,9 @@ our project, there are a few limitations that will be faced:
 ![Seq Diagram](clinic.png)
 
 
-## 1.7 Sequence Diagram
+## 1.7 GANTT CHART
 
-![Sequence Diagram](clinic.png)
+![Gantt Chart Diagram](ClinicProject.png)
 
 
 ## 1.8 SIGNIFICANCE OF THE PROJECT
