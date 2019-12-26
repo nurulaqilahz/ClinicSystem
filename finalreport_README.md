@@ -91,9 +91,9 @@ our project, there are a few limitations that will be faced:
 -Limited resources because there are many elements that need to be included for a complete clinic management application. </br>
 
 
-## 1.6 PROJECT STAGES (GANTT CHART)
+## 1.6 SEQUENCE DIAGRAM
 
-![Gantt Chart](ClinicProject.png)
+![Seq Diagram](clinic.png)
 
 
 ## 1.7 Sequence Diagram
