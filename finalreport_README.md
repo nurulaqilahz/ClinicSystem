@@ -118,4 +118,5 @@ We has developed an application that we believe it will ease the clinic manageme
 -Cullen, M. (2019, Jun 04). 10 Best Proposal Examples [with critical critiques]. Retrieved from https://www.instructionalsolutions.com/blog/proposal-examples </br>
 -Muholland, B. (2017, July 31) 6 types of project proposals that get approved (and how to write them). Retrieved from https://www.process.st/project-proposal/ </br>
 -3 Problems You Can Solve with Clinic Management Software. (2018, October 31). Retrieved from https://thejournalofmhealth.com/3-problems-you-can-solve-with-clinic-management-software/ </br>
+-Ramesh, F. (2018). JDBC Tutorial. Retrieved from javaguides.net/p/jdbc-tutorial.html
 
