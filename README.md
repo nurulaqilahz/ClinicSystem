@@ -64,7 +64,7 @@ In any project development, limitations and constraints need to be taken into ac
 -Lack of skill and knowledge in coding to develop an application.  </br>
 -Limited resources because there are many elements that need to be included for a complete clinic management application.
 
-## 1.6 PROJECT STAGES (Sequence Diagram)
+## 1.6 SEQUENCE DIAGRAM
 
 ![Sequence Diagram](clinic.png)
 
