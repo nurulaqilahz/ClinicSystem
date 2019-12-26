@@ -66,7 +66,7 @@ In any project development, limitations and constraints need to be taken into ac
 
 ## 1.6 PROJECT STAGES (Sequence Diagram)
 
-![Sequence Diagram](Clinic.png)
+![Sequence Diagram](clinic.png)
 
 
 ## 1.7 SIGNIFICANCE OF THE PROJECT
